@@ -4,3 +4,4 @@ i am learning how to use git and github
 new line added by another dev
 next line added by me
 this id for new feature branch
+adding  new branch through cursor GUI
